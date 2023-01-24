@@ -6,3 +6,10 @@
 
 #*Diseño de Aplicaciones Web*
 #*Erick Ezekiel Carrillo Moo*
+
+*status
+*add
+*commit --amend
+*push
+*branch -delete <branch>
+*revert
